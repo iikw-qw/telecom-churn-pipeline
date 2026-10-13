@@ -1,0 +1,4 @@
+,auc_mean,auc_std
+logistic,0.7971,0.0025
+gradient_boosting,0.7931,0.0039
+random_forest,0.7908,0.0041

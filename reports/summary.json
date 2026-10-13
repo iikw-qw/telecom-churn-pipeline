@@ -1,0 +1,20 @@
+{
+  "customers": 12000,
+  "churn_rate": 0.37,
+  "cv_auc": {
+    "logistic": 0.7971,
+    "gradient_boosting": 0.7931,
+    "random_forest": 0.7908
+  },
+  "best_model": "logistic",
+  "test_auc": 0.7807,
+  "top_features": [
+    "contract",
+    "tenure_months",
+    "support_calls",
+    "monthly_charge"
+  ],
+  "best_campaign_share": 0.402,
+  "expected_profit_at_best_share": 18140.0,
+  "saved_model_reload_max_diff": 0.0
+}
